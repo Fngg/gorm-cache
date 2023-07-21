@@ -2,9 +2,8 @@ package redis
 
 import (
 	"context"
+	"github.com/redis/go-redis/v9"
 	"time"
-
-	"github.com/go-redis/redis/v8"
 )
 
 type Store struct {
