@@ -1,4 +1,4 @@
-module github.com/liyuan1125/gorm-cache
+module github.com/Fngg/gorm-cache
 
 go 1.18
 
